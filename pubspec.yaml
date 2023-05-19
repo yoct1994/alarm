@@ -12,6 +12,7 @@ dependencies:
     git:
       url: https://github.com/yoct1994/plus_plugins.git
       path: packages/android_alarm_manager_plus
+      
   flutter:
     sdk: flutter
   flutter_fgbg: ^0.2.2
